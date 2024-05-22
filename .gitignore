@@ -56,6 +56,7 @@ docker-compose.local*.yml
 #Python virtual nv
 python/venv/*
 .env.example
+go/.env.example
 /frontend
 /node
 package-lock.json
